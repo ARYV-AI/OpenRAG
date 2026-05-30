@@ -1,6 +1,6 @@
 # OpenRag
 
-A lightweight, open-source Retrieval-Augmented Generation (RAG) framework that combines **local all-MiniLM-L6-v2xxf embeddings** with **Google Gemini** for answer generation — served through a clean Flask API and Jinja2-powered UI.
+A lightweight, open-source Retrieval-Augmented Generation (RAG) framework that combines **local [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) embeddings** with **Google Gemini** for answer generation — served through a clean Flask API and Jinja2-powered UI.
 
 No cloud embedding costs. No vendor lock-in for vector search. Just your documents, locally indexed, intelligently queried.
 
