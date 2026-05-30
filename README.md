@@ -113,8 +113,8 @@ Found a bug or have a feature request? [Open an issue](https://github.com/ARYV-A
 - Your environment details (OS, Python version)
 
 ### Roadmap
- -> Edgecase and Error handling
- -> Support for other LLMs
+ - Edgecase and Error handling
+ - Support for other LLMs
 
 ---
 
